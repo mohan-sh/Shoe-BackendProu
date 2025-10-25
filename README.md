@@ -204,4 +204,7 @@ This project is open source and available under the [MIT License](LICENSE).
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43b0c1eb-32b1-40fd-8602-9309bd3c0a7c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/322cc0a2-c61a-437c-b6e0-d71c6c22da26" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22f48a39-a96f-46b8-83d0-b4a6ed6f10a6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b33e4785-5834-4a38-8989-8885fc9f86cf" />
