@@ -205,10 +205,3 @@ This project is open source and available under the [MIT License](LICENSE).
 3. Make your changes
 4. Submit a pull request
 
-## 📞 Support
-
-For support, email support@shoeshop.com or create an issue in the repository.
-
----
-
-**Happy Coding! 🎉**
